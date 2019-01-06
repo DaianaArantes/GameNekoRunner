@@ -1,0 +1,91 @@
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Content\Images\Bat.xnb
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Content\Images\help.xnb
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\Bat.xnb
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\help.xnb
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Content\Fonts\hilightfont.xnb
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Content\Fonts\regularfont.xnb
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightfont.xnb
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\DArantesFinalProject.exe
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\DArantesFinalProject.pdb
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.csproj.CopyComplete
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.exe
+C:\Users\daian\OneDrive\College\Game Prog\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.pdb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightfont.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularfont.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Sprites\cat-running.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\DArantesFinalProject.exe
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\DArantesFinalProject.pdb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.csproj.CopyComplete
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.exe
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.pdb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\Coin.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\SkyBacground.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\Floor.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\Tree1.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\Tree2.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\cat-running.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\cat-standing.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Sounds\Jump.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Sounds\meow.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Sounds\purr.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Sounds\creditsMusic.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Sounds\menuMusic.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Sounds\coinSound.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Sounds\HelpMusic.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Sounds\highScoreMusic.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Sounds\PlayMusic.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\Obstacle.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\GameOver.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Sounds\GameOver.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\cat-jumping-2.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\inputField.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\backgroundGameOver.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\backgroundMainMenu.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\backgroundHighScore.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\backgroundHelp.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\Content\Images\backgroundCredits.xnb
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\DArantesFinalProject.exe.manifest
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\bin\Windows\x86\Debug\DArantesFinalProject.application
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.exe.manifest
+C:\Users\daian\OneDrive\Canada\FinalProject\DArantesFinalProject\DArantesFinalProject\obj\x86\Debug\DArantesFinalProject.application

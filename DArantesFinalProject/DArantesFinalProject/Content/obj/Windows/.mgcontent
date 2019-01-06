@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Fonts/hilightfont.spritefont</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Fonts/regularfont.spritefont</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Sprites/cat-running.png</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/SkyBacground.jpg</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/Coin.png</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/Tree1.png</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/Tree2.png</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/cat-running.png</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/cat-standing.png</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Sounds/Jump.wav</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Sounds/meow.wav</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Sounds/purr.wav</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Sounds/creditsMusic.wav</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Sounds/menuMusic.wav</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Sounds/coinSound.wav</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Sounds/HelpMusic.wav</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Sounds/highScoreMusic.wav</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Sounds/PlayMusic.wav</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/Floor.png</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/Obstacle.png</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/GameOver.png</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Sounds/GameOver.wav</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/cat-jumping-2.png</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/inputField.png</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/backgroundGameOver.jpg</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/backgroundMainMenu.jpg</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/backgroundHighScore.jpg</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/backgroundCredits.jpg</File>
+    <File>C:/Users/daian/OneDrive/Canada/FinalProject/DArantesFinalProject/DArantesFinalProject/Content/Images/backgroundHelp.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
