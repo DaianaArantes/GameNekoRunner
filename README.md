@@ -5,14 +5,13 @@ Instructions: Download all the files and open the installer file, then click on 
 Licence: I choose a public licence because anyone that has interest in downloading my game or using any part of my code can do it.
 
 ## Features
---> High Score saved 
---> Access to high Score saved
---> 
+-> High Score saved 
+-> Access to high Score saved 
 
 ## Screens
 
-<img src="https://github.com/DaianaArantes/GameNekoRunner/DesignDocs/screenshot_menu.png" width="500" height="300">
-<img src="https://github.com/DaianaArantes/GameNekoRunner/DesignDocs/screenshot_how_to_play.png" width="500" height=" 300">
-<img src="https://github.com/DaianaArantes/GameNekoRunner/DesignDocs/screenshot_highScore.png" width="500" height=" 300">
+<img src="https://github.com/DaianaArantes/GameNekoRunner/DesignDoc/screenshot_menu.png" width="500" height="400">
+<img src="https://github.com/DaianaArantes/GameNekoRunner/DesignDoc/screenshot_how_to_play.png" width="500" height=" 400">
+<img src="https://github.com/DaianaArantes/GameNekoRunner/DesignDoc/screenshot_highScore.png" width="500" height=" 400">
 
 
