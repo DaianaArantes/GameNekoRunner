@@ -13,6 +13,6 @@ Licence: I choose a public licence because anyone that has interest in downloadi
 
 <img src="https://github.com/DaianaArantes/GameNekoRunner/blob/master/DesignDoc/screenshot_menu.png" width="600" height="400">
 <img src="https://github.com/DaianaArantes/GameNekoRunner/blob/master/DesignDoc/screenshot_how_to_play.png" width="600" height=" 400">
-<img src="https://github.com/DaianaArantes/GameNekoRunner/blob/master/DesignDoc/screenshot_highScore.png" width="500" height=" 400">
+<img src="https://github.com/DaianaArantes/GameNekoRunner/blob/master/DesignDoc/screenshot_highScore.png" width="600" height=" 400">
 
 
